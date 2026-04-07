@@ -1,0 +1,7 @@
+[project]
+name = "qarir"
+version = "0.1.0"
+description = "Qarir is a computer vision application designed for monitoring children via a nursery camera. I developed Qarir as a technical task for the eyego.ai company."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
