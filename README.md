@@ -1,6 +1,6 @@
 # Object Tracking Task
 
-<video src="assets/demo/object_tracking.mp4" controls width="800"></video>
+https://github.com/user-attachments/assets/d2918909-2fdd-43d4-898b-40d234ddaeb6
 
 For the task of creating a system that tracks a specific object in real time, I built two solutions using two different techniques. One uses a classic single-object tracker (KCF algorithm) and OpenCV, which is the solution that directly follows the task requirements, and the other was built for experimental purposes to track a single object using a multi-object tracker (YOLO model).
 
