@@ -30,7 +30,7 @@ while True:
             cv2.destroyAllWindows()
             exit()
 
-        selected_id = int(input('Enter your cahild ID: '))
+        selected_id = int(input('Enter your child ID: '))
         break
     else:
         break
