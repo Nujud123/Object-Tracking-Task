@@ -66,12 +66,12 @@ uv run python src/yolo_tracker.py
 ### SOT Use case:
 In this example, I targeted my plant by drawing a bounding box around it. This system can be used for more meaningful use cases and can be integrated with other systems like a bookshelf management system.
 
-<video src="assets/demo/SOT_demo.mp4" controls width="800"></video>
+https://github.com/user-attachments/assets/24025536-a272-49cc-96fd-5856ca0e623f
 
 ### YOLO-based Use case:
 I used this system to simulate monitoring children via a nursery camera. The parent enters their child's ID after the first frame is displayed. Then the tracker filters the IDs and displays a bounding box only around their child, making it easier for the parent to follow them.
 
-<video src="assets/demo/yolo_demo.mp4" controls width="800"></video>
+https://github.com/user-attachments/assets/f582f5a7-eb44-48e8-9eb0-385f3127f96a
 
 ## Author
 Nujud Almaleki
